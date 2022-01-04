@@ -1,2 +1,2 @@
 # design-patterns-cpp
-Design patterns practice code of c++
+cpp code written while learning the design patterns
